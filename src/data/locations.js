@@ -1,0 +1,187 @@
+export const locations = {
+  "Selangor": {
+    flag: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAAkFBMVEX80RbaJR3////rjRr91hbZFh3XAB7+2hXYAADeSEPaIBbZEQDaIhrZHRPZFwvZFAXxvLvhXVn99fX21NPjbWrur6387+/cOTPqlpT1z8721dTvtLP43t7pkY/66OfnhILfUEzjamfrnZvywcDmf3zspaPbLyj0ycjdQDvkdHHhX1zdRD/cOjToi4nfTkrcMywmtGP6AAAE4ElEQVR4nO3cWVvabBSFYZP2003eJAzKUAZFFCxa6v//dx9DQrMhYMIKF1zb9Zz0oNqDu8k7EXLjXXW3dzfX3aWBjkc+KPJBkQ+KfFDfiS8Mwwr/tXXfgy9yssxF8fqPuJJ/c519vnBp1uy9DFv+usf7watX2VVonS8Q9/TLz/bYmD6Rr1CB1F6UXX8RinNRRXi2+UKp6QuvPZO42tnDMF/sGgpv6lxQHdwmu3zyoPDePFf5ssUuXygDpTeXM+CZ5QvcUM22Xr1atjSbfJHXUTeuVD7oJZnkC7xWVq9xnht3lUW+0HW0XuVq2yzyiRr3fp1RzyKfnnM757tzPYt8sV7vdQvMGqcfwZjjC53SW7ivf8WNmqfOzOb4RO3UhgUGvqDr18iXWNTUxfe7gIs8km9roc5YiqxZpO2TLyn4UBff59cs8bNPvjQ98r3lXHyBXseEkU++LYaedpv7x8pBM1RHpnJPvm3xk14x7/9E8Me/XwRSTwRl5JNvm5442nlrvvp8+Tf9kbcWjJJ5mnwbPnXvvud+JJQMj8PRTJx0yPevqKn4DqxaUrOlYDrRkG9VvZfVO7TjiPTihnxpoj7UHRza7rrRLt/vUw8NbPGpg77Rwc83NquV7CRTk9M+xLTFp87o5wcvqTDeu3077bGc8PSBLT4lMj6sEb/v+a0Em6UFTfHpPcfHkdtxdU6QU2vQlFLDoCW+nS3b0XNmfZ9nG5Xxs8S3c/UdO+tzT/l2w0m3wPG0UT499h1ZzC13vnl2vVnZCdgwX/6ebfODj3t26Ta4XLb4lMrrwUFsb+LoZw5hvjGfOnCZHhrF1gfMqu6pD6+Z4nPqqso7a161OWAuOkx+I774NWuSd1q6SvrpT7wMyZcpnKlrapZ7R0pyLPMyF/HIp2jU3LHImzs2B8wruzg5eiZfmh788p6tCuu+33iWdGuWHD2Tb13wV929Od9CiOYPIpkF4ebomXyJhrp7ezlLl0gvpjdHz+TbFC+yfK0Cz2isj57Jl6T3bYc3HpnfuCffNqc+LTq09Mu2OnomX5o+yMsb/XaL38n3D0NvaGdFHvBrjMm3xXjL8vWLPFcfdU99fNweX+jU7Tsp4nfyw/f2+LxIr52fS52+l8wgn+fUwYtfq/DVD7tZ5NseqiR9nM/PJJ8nE+U3Ptv9a5PPE7V58+fn+l6bUT5P9PKvLdW9PSObVT6v/qm/T147y1cDzfJ5wc4AOHBneBeEXb7lAuZTbUD8aVz5LWyZb3kB/tXvwWk0xVX6IhzTfMsdiHxO1TfzW4O5V+4ZtKMZ51u9kkTGk766Bod8BViZloLSfVhM2oPBtPc6rvPqK10QxW5dHHHsu5rIB0U+KPJBkQ/q6vn+u+pu735edTc/GNDNpf//jnd3e+nr/3iXHju+6O720qPv8S7t80XkgyIfFPmgyAdFPijyQZEPinxQ5IMiHxT5oMgHRT4o8kGRD4p8UOSDIh8U+aDIB0U+KPJBkQ+KfFDkgyIfFPmgyAdFPijyQZEPinxQ5IMiHxT5oMgHRT4o8kGRD4p8UOSDIh8U+aDIB0U+KPJBkQ+KfFDkgyIfFPmgyAdFPijyQZEPinxQ5IMiHxT5oMgHRT4o8kGRD4p8UOSDIh8U+aDIB0U+KPJBkQ+KfFDkgyIfFPmgyAd17Xz/A9JvoivUtEUXAAAAAElFTkSuQmCC",
+    districts: {
+        "Petaling":{"lat": 3.0738, "lon": 101.5183},
+        "Hulu Langat":{"lat": 3.2166, "lon": 101.8667},
+        "Gombak":{"lat":3.2166,"lon":101.7667},
+        "Hulu Selangor":{"lat":3.5236,"lon":101.6415},
+        "Kuala Selangor":{"lat":3.3500,"lon":101.2500 },
+        "Klang":{"lat":3.0449,"lon":101.4456 },
+        "Sabak Bernam":{"lat":3.8550	,"lon":100.7290 },
+        "Kuala Langat":{"lat":2.9500	,"lon":101.6000 },
+        "Sepang":{"lat":2.6800,"lon":101.7500 }
+    }
+  },
+  "Wilayah Persekutuan": {
+    flag:"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAACZ1BMVEX80RbOESYAK3//1RDLAAO3oEUAG4MALILTECGFH1byy84AAAD///8AKYAAKX8AKIEAJYEAIYIAHoIAK33/2wAeOHkAIoEAJ4MABQAAGYMAE4UuQnRsb1kAKoT///d0PCAQFQ0AF3ipmUTZVyPtoxzXTiPPHiYhO3goP3Z1cV6DfVU6SnAwK1YzNl0aN36ViU58d1kyNWYAJm+joYdVRDVaQi5IQCxCRTBFWVwWL2WJgVEbMFtRVFNtTDYuGwCHlZZkbosWIzUfBQBuRideNiZVVjGmoGm3taRHUm3PsjDowyFWXGkAF2y0nnxoa0FlMyafXTs3LSJNMhFILR9WX0dpcmxoYlRoXC5yUi4+LhiDTjA3GBMqHxdiUC6mo2AVQo5zZkUdFgAMGTBwViVzai1IJSGRPSCKjH2Fc0CNYTZlWlFQRlQUI1CAQx5aOz+DSDBqT0x6g5YmLkhHO0hoKgehUSezYynevCmgkE1aJxRHIRF+RADSt2jOzpjk3p3Ml0+layySbSi6ikPo0n1wQxOcTzerRihYLgOllh3BtZ+rkH6HakuPf3xVWH+4soX//9Lu22/5+7iTJBySJRGXIyCCIyLLpjWxTB8AFx1hIwt8JhApMTTZ0bZtLSazfjLNulPh8NiFkXCMZWuBR019OEbh1kv16T3JzcWhIRDh1GsjTgC9wcM0eyg7AAC4in0QVRn985WLnCxQOATAnGEpAACfpK9ggUghUkwHEwDbw4Jwimc1YESrgmTFon1xEAAPPV7ctWDiokWztU+xpJ+ps2L/+kLRzUiIgi+ehCzT30SSmmXwqBrjdR0Ly2d+AAALY0lEQVR4nO2c+1cTZxrH02GT2d3JzCQZEi7BQKLIJcsEEnWbUEAhK4GwRaHBIhRBLRclbcXl5gXx2lQL2ASocjFQmgQLrWjr7rZ7aRslQeWP2neiKHXb7g9zjvPuOc/nHA45byac93zO932f5w2TyGQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPyUJEAEMjkgApkCY9LStenatDSpp/EryAi8YEia2XhM5+TmcfmEmX3xLC3JpH4ZzPSptX8o4NmnkhheYSmUD5g0/DOhNKst4nXsr7z8lYOVPsZq27Fz1x9ftyf80bzDIkuSmQb0T41xxW+UlJSW7VZJOsefgpU+ck95hfNPeyv1gj6Gc+VVJclk1YXup/Grsf35zdp9O/ZzzP/4M68QnPSRxXUV9SWON9/KEQSpMggz0pdU7eYyEoFjPQ0H3nY2Nu/BaAPESB+ppQ42Nb/TwiaKB2su1DoKq5OqLQ6zQ5uIo/VQRmtzY0mbGZ/tDyd9h3eeqnceafEk1qouP1+tsDQ4LBYuzeRJxI8rcBxtqj/1bikv8UxfgIM+JrGZ0UX1g+0VrXk7OqwJfYVV6VouT1eo0adXu1OEK1Qf52d0VtTWthVjs3wx0MdoE3GzOmubuw60HstVb6FZBtXdZHcarWV5Or1QpkIXqFK2qLWFnZ37mnfWJ17AYlBCMNBHHxd0kN3eU05nSYNHa3/v/eM5LKOQJ3nSFWpFWmGyRYPsnfjgpOtE5a63vc7azB4SrfXjvPT+MNDH8DtO0kjfqcamneXf1Ff8pbevr6SIo9n+5P6B/IHq5CoNQ6tcfX29gyVtdRUHnbUVe0iCtNdppZ45FvoI2l7HI311+06Vv9PbfvrM2aFzPwx3WlUqU1JycrLMkqbStZ6/cO7i3rVLl72NWU2Xm26g8O3vwWAHxEEfwewsJsnu5qbLVz70mUYNH1291not/+OiIm1R4UDeiH5k5MSAxdEyOjpmCvoG272Z5TdIgr+XI/3axUMfUWcn6cO1Xm/f9U86DHnUTf/UVGCxvT0QaPePT6FfE1MTExODlM1guz75aaY38wZJ2ksw2Pqw0Ie2MZ4hs6jUit4DtrzWayVT4+3nb6KfqcDwEX/g/NS4f20q4J8oPWCzDa2hLTA1iySspXZYvAnIHWgb46lG780fxjyHczvm2scDR88H/JYu/9RAu//9Tr+/sysQmPp2yDU9fXZy1tmcxTP0yXpS6oljoY8uaOSILT2NzsHhvTNvWVmmZtbv7/KiyPX6A7cC/t5h/3jXcCAwa7emWBvGgrfaS1NdWwhrY4H08cNAH19aTNK5qfWDvZNznm4UKRrpu9Xr98uRvgt+//Dw+Dj6CcwSDMFRnrPy3oP1bXqWLtjJST11DPSRxdOo9WumKi5PtYw1JEZmA4vDveP+W+1Io3+xL6Ev4J9FtsjujLHrn3ozqf08w+0vlnz5Sq+Pqy+muWnKOTs4PE+5hMMtfeyzzz6rDUwFbk5MzC4sLHi97ZkLC5+/lwjb4VZL31R9M9VD0wUloI/g2o5vKaZSy694v56ndgjdiDGiNCiv+v1+iqLy0MNQOHxROWOIGIlETM9MZl4ppdpytnS3Sf7Wi/T6yJ66k1lUVslg3ydLN+uE9WiMRCjD1UWkL5XqUBoM4XD4duUX84I+sucgtXS9d7CeoqZz9r8B6UOBmi6nqKym9qDBdrN8mkikr1L51aJ/HKVP0IfSd/uL5S8qkT4udfBDw4r8oJNKLW06Kf2hV3p9BMPZ96Tuz/xyZeh0beO0kL4lQ8fcV4uBjfQhfdE7y3dsCX3N3+w1XP+yohmlD4N/emCgT6inVP2VIcPtH2tTny3eSOSrxfFn+oS9byiSF1lSCO9Itx0MzaxMXqmntNJ3fbjoK04tP/1JZGjy3SxUDNie82ei0a4NfUol2vuCo+fPXitg0fmOOrISUQ55Kapb8o2PwEXfnvLLjrlcT5C6QRI6tncNCUPHDUGfDelD6bt75+idui6aYazUvRV3ZOze+5T0TR+BiT4+NatuTK/RXyzN0jMndnztMZmipxcXhcbFZkhU3rvLy3c6+7o5jqfuDTFc5cqp5mnQ9xTSXjo4ekLD6lcu3fvGW/f1GLP7/v0HSw8elJWVLc3NRGbOzvx1eflvHRc7y51UeXzMyKa3WN79u+RNH4GHPkKbOju0W8Xq5+ZmZubmIrvVOZX3l5QzMwaDUmmLoPwpv1tetqfPjA19u/fMmIFjdJ5zg1nSn3gx0UdM147uVhFcTceDjhM1aSpCdeL+kiH/I0FcZaTj7GjHd8v/SGFUTG5lpLJMzxBG2+nyPbB4n0F2l5oiaagD1Gg0OqGZY7RlkaVjx5Rz//yXLVL5Zj7Sh05zDMMajUY1SzA1Y11tdtAnwKB6yk/3jul1m/5xy+ZGKl2vRz7692DmaGTXO0vffb/pxgxGt3vIO43D2pVeH2Mt4FA/4vxhpsfFq1i1RqHRoIZYtzvSUWmILNz0X1UuLRnMKsGaRo0UMyRXc/ZcJk8yKTrJjx2S60tx+97iaNrq/XFyLW52OaLRWNyOoqYeMaDz2scffPBAqTSM6FAg2cKHjxuKaPbahXO3vDxJk+7HhNT+JNfHcI5o4RYdWXDpQDwYC8V8VcHVmLCMdVpUc5eUyohhySpkj4iuIsJVwfjRzC5Ooz7UEoxKfuqVXB/a5gZM8QFfNBaUx+NHTfKob3U1Xy08YRypnFMa7o8YhdOtLn81HF4N+2K+YPhR1JLhfuiTuyW/0VR6fQRrj62GV9c6TfG4KRa9jfJXFTQKTzAqo74s15goGow1VN3fHw76otGgL1iFVIZjZp20Eyew0Eew6abwalAejAVt7hw2Dx1xY9Znq5JVP6u4tD4WDoV6XB5LKOSLoRiu3uYkzx4e+lC/9/pjh0fPKDQqWuepOlPo+u/7R1lPNBxya1QahX7+YSgU2puGwz2mWOgjCJVGrXra9rHfhx7b1RqhQ2EYmqaFtpAW+hm+IBoWbstlWHWaRq3WSF01EmCi7wVsQTgWjlkyzNYajue1Wp6rqckxz1uisapwcKPSMgwW8nDUpw8dia8F0Qb4SCD26BHa88Kh6Go47rttlHp2L4OdPkbVEjXdjR7dFZejEjxZtTYZ9kXjUZ/vbiw0r5Z6di+DnT50NvO0xGIxH2oCo/EDplg8ZgqiUvEo9tAt/SHtZfDTh/Kn0Ok9jx8Gg8gi6maCLfOPO1xajUKFnT3M9NHPPk7JsDqNQmHUHTp0SM0Z0zQadcrGBy1pXKpGApz0pfBms3ZzL8xo3Aq3erMuOsXNuXRYvFeVACN96gza4eAyXpQHlvc0mB0u8wujOneOxWPOwOETHU/BRx/nzpFXVcm17o0BWm/Ok/fLB7TPzyCsi5dX9cvdLi0u/mQkLqTkmqqTkqpNOSkbI+o3JpOSkqoKdRsDNGfpF75+waX7+T/x6pH9Dhc+75pMkslkk12fb4wsXOgXPs97Yd/za/ZdEL77Y/LCgiQz/Blkv8WHbTIUrfVNA9lPkKwnWzeNrFcjodu2v+qZ/SKy17Bh6/ZtT55s2771+cD27K1PZE/Ws7Ofj2SjS6q3ZW/dLsX8fg6M9CF/6+ub7CHWt2avZ292lZ2NLll/xfP6FXDSh+KW/VKusl/Lfuma7O0vj0gJVvr+/wB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9ogB9opD9BhCB7PeACP4D2n7cDNetpwQAAAAASUVORK5CYII=",
+    districts: {
+        "Kuala Lumpur":{"lat": 3.1390, "lon": 101.6869},
+        "Putrajaya":{"lat": 2.9264, "lon": 101.6964},
+        "Labuan":{"lat": 5.2831, "lon": 115.2308}
+    }
+  },
+  "Negeri Sembilan": {
+    flag:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzW-ZU2SGl8eTVkkLHh8vQJNvjyIfcbsRGfA&s",
+    districts: {
+        "Seremban":{"lat": 2.7297, "lon":101.938},
+        "Port Dickson":{"lat": 2.5228, "lon": 101.7970},
+        "Jempol":{"lat":2.8833 , "lon":102.4000 },
+        "Kuala Pilah":{"lat":2.7380 , "lon": 102.2500},
+        "Tampin":{"lat":2.4700 , "lon":102.2300 },
+        "Rembau":{"lat": 2.6000, "lon":102.1000 },
+        "Jelebu":{"lat": 3.0500, "lon":102.0500 }
+        
+    }
+  },
+   "Melaka": {
+    flag: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAAxlBMVEX////DAAAAK3/80RbipaUAGHmlq8UALIOVEjfGAAAAJ4D/2AYAKYBETXIAJoAAJYH/1Q8AGYMAFIT/2gAAHoIAIYH/1g0AG4MAEoQAIoHVtTIAD4TvyB5OVW7/4ACEel6rl0owQnbFqT1hYmjyyxrOsDZ4cmGmkk67okMQNHo6SXFcXWtXWWxFT28oP3USMH2ShFjmwSZNWGiKflpxbWO7okElO3iailJraGafjlAALX2IfFzivyl0bGfKrTqsl0uQACjOp674WrCcAAAE70lEQVR4nO2cWVerSBRGbeiRSoeqYiZo5tkY09HEqFe7//+f6oxUMVxuIqx1Fb79KMSHvQ5nqCq4Uj4Rf/z51y9fi6ufrUwG+nIBfbmAvlxAXy6qqa+m1XW9ruX/R5XTV7cYs8aT6+nt7G7+DH2XoDuN2X1nQQ1CjJubReufGvSdjcWnI5XYVFVVSvymws3cj2919Jn6MiA7dapqq607buWNvCrp051lj+zdbSOvNWcFlI0K6ePT4ChPJf4dKyLwqqOvbo6MozzVbjYKiryq6LPagX2UR4O2WZy8SuhzpjQMPV/Xi7RXAX3sgYT2OrywrFcRfexBpL1Oo1h55ddndsPYo37h9squT5+EeU8Nshtl/SMDcMn1eUFoj7Yzq4b1cP2Bhqbc+tzHU8eikmZmx6KNyd/QF8XrhmWD9t3MW7lvQF8Msxc+uvYqUw5bE0Rf3N46fHTtIcu6U78mKvRFqSlh7KlUy6q6NWsbptAXRQo++u5IF/S4SrdDoS+OIzIfkTPffKAwTzboNHcVBvoi6E9i3uhz6YK5MTqDZx4arLf3rTX0RWCdcOAgA0++0vBtQvuDZ3YYQ5xX6EvRJ8Y1Oo9kO22++5tt91/mrqW5rUOKhD4ZXV4r4NFr1qGdprbhL8en1hr6ZMxNGH10E5/X+DHitgbFEw59EqwvxHQTiwXHfCcDfRFBom0xkgNb/c5O6GuzOvSFhKsFai9lpcocGHF/i+HMdS7cCimrPm1ChJe0ebfRScQfJcH7LbvIYFn16VOhL15499T0IK7vYLA1NdnZBsuqz/sm+pa31NWW3SpLGpT0Rl3zzFMcpdUntidpJ32xiq8T1ff0C4O+Tc7yVwV96dG3bV6+I88mr/ftakdfZMEgVV/YOsfc2f5ydfbJv7Lqq0uZ7TWtdFjdZOrbziD+y4pb5/fPZdWnrURfF6TssWnPCXk26Tfnl7grsT7FkhZclORKfcOP1w176XHv0iMwpdXHRGEgs8Q0xu4Tjy6ZfODwVWn1OSNxLK1pxS7qM1FYTrdhyUDGaoqNolGs9IYTByVq641CX5JI7YjpO8y71Oi1poxZPehLobH4XvLbrbZQI3i/5rvlgdODDH0R5G3eody6aG2DLIYz5hydsjWBvgTaShTXnvz0av3hhJlSPPJ9EwN9Ubi0XP8k7VQ+m7GRTBsj+pLot9Lclnkud7/zBn0xuJgsjGlmT7zb64W+GPXZD5YNBM6CQl8cPjr3bG69DX0Jap40044z7TjNG+iL403F4WY/+3Cz28fJ+gR8E6Y/sslMf7Xx5AMvbJVcn8LfwvRnPDlZd9Y+8rpb2fXVTHGahVwX+jJqFfQpmvUqZt/C/ZVen6KZvvDXzXw/AfpSqDHxKj55ya6/0JeCOwhPQRoj0/vxD6AvgrnyTw2MHdy6xX0Lohr6FM0d9E4ZkDyOi/qMS1X0KYrl3feOHxGi9H18/hk06DtgmgP/8AUr1aaPt9xJvJwFfZl47mr5phpbh9Q2eq1v49whWCl9uyaa8fbDetTp+36/05rmzYEV07dX6JkO2+GYlx+lh74igb5cQF8uoC8X0JeLL6jvt8/Evz9bx6Vc/f6Z+O/XL8YVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+Fr8D+l/6uUbRfrmAAAAAElFTkSuQmCC",
+    districts: {
+        "Melaka Tengah":{"lat":2.2064 , "lon":102.2462},
+        "Alor Gajah":{"lat":2.3812 , "lon":102.2081},
+        "Jasin":{"lat": 2.3100, "lon":102.4300}
+    }
+  },
+  "Pahang": {
+    flag: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAACVBMVEX///8AAAClpaXULikdAAAAyUlEQVR4nO3QQQ0AIAADsYF/0Yi4F0kroRsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/uQQ7BPoSfYm+RF+iL9GX6Ev0JfoSfYm+RF+iL9GX6Ev0JfoSfYm+RF+iL9GX6Ev0JfoSfYm+RF+iL9GX6Ev0JfoSfYm+RF+iL9GX6Ev0JfoSfYm+RF+iL9GX6Ev0JfoSfYm+RF+iL9GX6Ev0JfoSfYm+RF+iL9GXPDcqZJ/zNoVkAAAAAElFTkSuQmCC",
+    districts: {
+        "Kuantan":{"lat":3.8044 , "lon":103.3256 },
+        "Pekan":{"lat":3.4983 , "lon":103.3894 },
+        "Rompin":{"lat":2.8167 , "lon": 103.5000},
+        "Maran":{"lat":3.6217 , "lon":102.7773 },
+        "Temerloh":{"lat":3.4515 , "lon": 102.4196},
+        "Jerantut":{"lat":3.9333 , "lon":102.3667 },
+        "Bentong":{"lat":3.5167 , "lon":101.9000 },
+        "Raub":{"lat":3.8000 , "lon": 101.8500},
+        "Lipis ":{"lat": 4.1833, "lon": 102.0500},
+        "Cameron Highlands":{"lat":4.4700 , "lon":101.3700 },
+        "Bera":{"lat": 3.3667, "lon": 102.5833}
+    }
+  },
+  "Kedah":{
+    flag:"data:image/png;base64,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",
+    districts: {
+        "Alor Setar":{"lat":6.1210,"lon":100.3678},
+        "Sungai Petani":{"lat":5.6500,"lon":100.4900},
+        "Kulim":{"lat":5.3700,"lon":100.5500},
+        "Baling":{"lat":5.6700,"lon":100.9300},
+        "Jitra":{"lat":6.2667,"lon":100.4167},
+        "Pendang":{"lat":5.9956,"lon":100.4703},
+        "Yan":{"lat":5.7939,"lon":100.3972},
+        "Sik":{"lat":5.9333,"lon":100.9167},
+        "Kuala Nerang":{"lat":6.3333,"lon":100.7000},
+        "Bandar Baharu":{"lat":5.1239,"lon":100.5131},
+        "Langkawi":{"lat":6.3167,"lon":99.8500}
+    }
+  },
+  "Perlis": {
+    flag: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAAD1BMVEX70BUAKHn/1AyjjVEAGnyiGzyjAAAAzUlEQVR4nO3QQRGAMAAEsSvgXzMidqavREI2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA6x6CvQT7CHYI9CX6En2JvkRfoi/Rl+hL9CX6En2JvkRfoi/Rl+hL9CX6En2JvkRfoi/Rl+hL9CX6En2JvkRfoi/Rl+hL9CX6En2JvkRfoi/Rl+hL9CX6En2JvkRfoi/Rl+hL9CX6En2JvkRfoi/Rl+hL9CX6En2JvkRfoi/Rl+hL9CX6En2JvkRf8gMtEWwTQ+zcRwAAAABJRU5ErkJggg==",
+    districts: {
+        "Kangar ":{"lat":6.4333,"lon":100.2000},
+        "Arau":{"lat":6.4300,"lon":100.2700},
+        "Padang Besar":{"lat":6.6500,"lon":100.3000}
+    }
+  },
+  "Johor":{
+    flag:"data:image/png;base64,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",
+    districts: {
+        "Johor Bahru":{"lat":1.4927,"lon":103.7414},
+        "Batu Pahat":{"lat":1.8500,"lon":102.9333},
+        "Muar":{"lat":2.0500,"lon":102.5667},
+        "Kluang":{"lat":2.0328,"lon":103.3179},
+        "Segamat":{"lat":2.5146,"lon":102.8158},
+        "Pontian":{"lat":1.4833,"lon":103.3833},
+        "Kota Tinggi":{"lat":1.7333,"lon":103.9000},
+        "Mersing":{"lat":2.4312,"lon":103.8405},
+        "Kulai":{"lat":1.6667,"lon":103.6000},
+        "Tangkak":{"lat":2.2667,"lon":102.5500}
+    }
+  },
+  "Terengganu":{
+    flag:"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAAclBMVEUAAAD///+lpaX4+PjV1dWhoaHy8vK1tbXd3d0UFBTa2trR0dHg4OD6+vqXl5dVVVWRkZHm5uaKiopiYmJLS0uvr687OzvIyMhsbGzExMRxcXE1NTXr6+tCQkJISEizs7MnJydaWlobGxt8fHwsLCwgICCVAZghAAAEUklEQVR4nO2da1uqQBRG5SbeU0tJ02Nl/f+/eMwO6OwQYV6gzZl3fasn2Lv1AHPbDD2PAPR+O4FuQ30Q1AdBfRDUB0F9ENQHQX0Q1AdBfRDUB0F9ENQHQX0Q1AdBfRDUB0F9ENQHQX0Q1AdBfRDUB0F9ENQHUaAvjHxyIgqt9EU9ciay0uf/dtpa8KkPgfogqA+C+iCoD4L6IKgPgvoguqRvuD9Gm2Q8WozGSeLP//xKEiad0bc9LK4zmKyeX9tP4gfd0Lc0h+bhsuX4N+mAvrfEiD2dDduMXox6fY8TI3J/3l7oEijX92TK83TJ064vNsNuFN2232jWtzWDTt9aiVoJxfrEpTduI2ZV1Or7WJghZ82HtECrvv3UjLhtPKIVSvU9iICPTQe0RKe+ZxFPw/A2F5X65LX31Gw4AI369iKawg5LikJ976LVsJkfeKg9q3wU6hM9ltjmHP26k7qBPn0rM9TC5hyhV3dWN1Cn71GEerE4x9wLas8rH3X6AjOSTTHS2nNWn7h1rZ5hfWf1vYhANqONjeesPlFuaDPLcvSc1fck4lgM1j49d/WNzTChxSkW7uqTo7WCscOtYfC//8dJfRszyqQo78Df5/z6zXNYn4hSONgdeN5u9eMaTIfLLuo7ygSKeD//SX9l3ODZs9NFfaLhuNNrSadUgzib0Jpnx7qoTwS5N1F1WYmbxufu9fpyrIP65Az9x70Ddld/HJwMXv3soL7Kw911fnKO6hPlLJv7Ryyp74KIUaYaKMnNzkl98lYsNdkS5Kbnoj7ZcpSaZpZLmhnhspVqLD36ZmaIKZz/aP7eQJqlw7esz3KeeXA7y9OoeWazVFIBPfpEPVrZFbbPIn1f54nWDSSbokefaEVHZY/b5qd4xc5vrMpDjz4xT5+UPjDOz9FATC3Uhh59otdcXl/JHT92TVyCevRZrxLx6vtCPPtKr3Pw2XeGLS8E+30QHHVAcMwLwRkXDBGD833VEI0AZ5uhVO4b4FrHNbIs925/jSttBiJI+XXegOu8varlaWlHp3/IhrOXZ6GL+uTotbDnNvx2Z1YJZS2xi/oqdV2+Kqz8H9WnaT/QSX1V6vv6ufV96SjESX2sLsWoobZ54rA+VtZjjMw4Nu91bB3WZzXtIojd1VfLO207d/XxjUoMvs9ba0Z8m7wiotyAexlUY8idNCBk74X7uFRDLj+q3YNJpz7uYQXCHdQw1qL9ODYe0Qqt+nqv3D0S42DGtJn8axzF+rhzLopY/OC+zRV54K7hGM/csx5DfjEhUnQLd0DfiaW5BhKq6QV2Q1+vN9zGRkdwwK/FVCX7VtFgnCQrfquo+1AfBPVBUB8E9UFQHwT1QVAfBPVB2OmzKdz5L4ms9IWRT05E4W1HJXeoIPlQHwT1QVAfBPVBUB8E9UFQHwT1QVAfBPVBUB8E9UFQHwT1QVAfBPVBUB8E9UFQHwT1QVAfBPVBUB8E9UFQH8RfbIl80wZm34QAAAAASUVORK5CYII=",
+    districts: {
+         "Kuala Terengganu":{"lat":5.3302,"lon":103.1408},
+         " Kuala Nerus":{"lat":5.3906,"lon":103.0887},
+         "Marang":{"lat":5.2050,"lon":103.2050},
+         "Dungun":{"lat":4.7561,"lon":103.4257},
+         "Kemaman":{"lat":4.2333,"lon":103.4167},
+         "Hulu Terengganu":{"lat":5.0667,"lon":102.7167},
+         "Besut":{"lat":5.7333,"lon":102.5000},
+         "Setiu":{"lat":5.6500,"lon":102.7000}
+    },
+  },
+  "Perak": {
+    flag: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAAD1BMVEX///8AAAD80Rb8zQD/2xfDEt3+AAAA9ElEQVR4nO3QMQGAMAAEsS/gXzMibumQSMgGAAAAAAAAAAAAAAAAAAAAwC1egj0E+hJ9ib5EX6Iv0ZfoS/Ql+hJ9ib5EX6Iv0ZfoS/Ql+hJ9ib5EX6Iv0ZfoS/Ql+hJ9ib5EX6Iv0ZfoS/Ql+hJ9ib5EX6Iv0ZfoS/Ql+hJ9ib5EX6Iv0ZfoS/Ql+hJ9yT6CHQJ9ib5EX6Iv0ZfoS/Ql+hJ9ib5EX6Iv0ZfoS/Ql+hJ9ib5EX6Iv0ZfoS/Ql+hJ9ib5EX6Iv0ZfoS/Ql+hJ9ib5EX6Iv0ZfoS/Ql+hJ9ib5EX6Iv+QFCysk9LergGQAAAABJRU5ErkJggg==",
+    districts: {"Hulu Perak":{"lat":5.3200,"lon":101.0400},
+        "Kuala Kangsar":{"lat":4.7667,"lon":100.9333},
+        "Kinta (includes Ipoh)":{"lat":4.5971,"lon":101.0755},
+        "Kampar":{"lat":4.3000,"lon":101.1500},
+        "Batang Padang":{"lat":3.9833,"lon":101.2667},
+        "Muallim":{"lat":3.8333,"lon":101.5167},
+        "Manjung (includes Lumut, Seri Manjung)":{"lat":4.2167,"lon":100.6167},
+        "Perak Tengah":{"lat":4.4667,"lon":100.9500},
+        "Larut, Matang and Selama (includes Taiping)":{"lat":4.8500,"lon":100.7333},
+        "Kerian":{"lat":5.1167,"lon":100.5167},
+        "Bagan Datuk":{"lat":3.9000,"lon":100.8000}
+        }
+  },
+  "Kelantan": {
+    flag:"data:image/png;base64,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",
+    districts: {
+        "Kota Bharu":{"lat": 6.1333, "lon": 102.2386},
+        "Pasir Mas":{"lat": 6.0494, "lon": 102.1397},
+        "Tumpat":{"lat": 6.1978, "lon": 102.1701},
+        "Tanah Merah":{"lat": 5.7986, "lon": 102.1443},
+        "Bachok":{"lat": 6.0667, "lon": 102.4000},
+        "Pasir Puteh":{"lat": 5.8333, "lon": 102.4167},
+        "Machang": {"lat": 5.7630, "lon": 102.2210},
+        "Kuala Krai": {"lat": 5.5301, "lon": 102.2041},
+        "Gua Musang": {"lat": 4.8828, "lon": 101.9629},
+        "Jeli": {"lat": 5.7500, "lon": 101.8500}
+    },
+  },
+  "Sabah": {
+    flag: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAAkFBMVEX1Ni93zP////8EhNYAK3960P8AH3n9IQD0EgAAeNNNi8Vq1P8AftNpyP970v94zv981P8AAHIAJ30AGHYAFXUAInoAEXMgTZZyxvpgquIwY6ZZn9hvwPVpuO5Ul9FksOc3bK4ACXITO4k6crINNocFMIN/2f8aRJAzZqhPkcwqW6AkUJdFgb9CfbwAcc8mb7W/lta5AAAD4ElEQVR4nO3cb3eaPBjHcdkI27i3kCaAIoLOP2ulur3/d7egdzu0KOqlkOjv0we1nuODfk/CRaynPcdo7Ptno/W6DnQc8pEgHwnykSAfCfKRIB8J8pEgHwnykSAfCfKRIB8J8pEgHwnykSAfCfKRIB8J8pEgHwnykSDfmwG/4EXIt8Vffi5FcPbLkG+bQUxlOGOs8gw/JSbylXgylK7rzVPBma4W6C85z1jzC5GvjJA+Ra4m1WKWZqNRlvFUSXVCvwfLp7ekXl+VbRkEjDuiL90tGalQqaf1L/2MXAyQryrg+fPiZTnWFQXnXOit6mTpzBnE7o5okqvyW9E4jB8pHxv1QykjT4WL12I4LIrXZzcMVbxM1G4+vQg338K8afs+UD4+9t736LvNTwu3npw2Lb8HyaevcCKP5YFMB4VZw93L3eULmBZsH+jr2/YRz/LVZH+HnsBbNiy/+8nH9Bxw+GCcpmmS6XBZ6q9Wq0wPCCd/jj0vOr+e3uQNw/du8rE08oVYPynlKRVHk74upoXu67Pyzt61b6KheIx8A32fOyveN2hUmRKXtivFydHha38+tjlnsVRVml2PdO979fHlcKmPEfzlkmvbCaLJselhez7hx5GaZ9y5YK6eJk6PbF/L87FxmU26yeRGi688gRyZvnbnCwb/nxvUzeqVR9/D09fyfNPrD4uPlH/w8mdzvoAXN1x0FfHBd/5szicmXiv1XLm4w9Un1jebtvsOvvNnbz7hh23V05e/df34sDafWMbNv/X1xGnt+rM1n75dbrOe7jeuGx925gvErMWduyGjUU0/K/PxwWtLM7fab1HTz758Aee5bOd+b6/ffPDhrXvb8nGR+VPVxlmjtt/++mO/vxltLx8v4vDy947J/T7s3x+fzLabj/ut3SnX95MZtzcfT9qetx/6ebv3fzbl4+Nu195GvK5+DNCifCLpaGTsUv3KBdCefCIPTahXbuD8/aOTtuRjwaTr694/qv82QezIF4hk3v454zAZTkabS6AF+QImsuH5H++5ragMyMzPx0WQFHEXh7QGUVwkLOi6T4OeP5RGDNwaUrl/uu7ToNfdEe0E8qnrPg16XRc6DvlIkI8E+UiQjwT5SJCPBPlIkI8E+UiQjwT5SJCPxPh8ntGMz+cbbdV1nwY9ZjSn6z4NDP8nTMb/raPrQMchHwnykSAfCfKRIB8J8pEgHwnykSAfCfKRIB8J8pEgHwnykSAfCfKRIB8J8pEgHwnykSAfCfKRGJ/vP7N13adB74vZvpqtBwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwRX8BrFZ0SWcR3xQAAAAASUVORK5CYII=",
+    districts: {
+      "Kota Kinabalu": {"lat": 5.9804, "lon": 116.0735},
+      "Penampang": {"lat": 5.9167, "lon": 116.1000},
+      "Putatan": {"lat": 5.8833, "lon": 116.0500},
+      "Tuaran": {"lat": 6.1800, "lon": 116.2300},
+      "Papar": {"lat": 5.7333, "lon": 115.9333},
+      "Ranau": {"lat": 6.0167, "lon": 116.6667},
+      "Keningau": {"lat": 5.3333, "lon": 116.1667},
+      "Tambunan": {"lat": 5.6167, "lon": 116.3500},
+      "Tenom": {"lat": 5.1228, "lon": 115.9403},
+      "Beaufort": {"lat": 5.3375, "lon": 115.7447},
+      "Sipitang": {"lat": 5.1000, "lon": 115.5667},
+      "Kota Belud": {"lat": 6.4333, "lon": 116.4333},
+      "Kudat": {"lat": 6.8833, "lon": 116.8333},
+      "Sandakan":{"lat": 5.8500, "lon": 118.1167},
+      "Lahad Datu": {"lat": 5.0333, "lon": 118.3333},
+      "Tawau": {"lat": 4.2446, "lon": 117.8912},
+      "Kunak": {"lat": 4.7167, "lon": 118.4333},
+      "Semporna": {"lat": 4.4811, "lon": 118.6111},
+      "Beluran": {"lat": 6.3333, "lon": 117.4000},
+      "Telupid": {"lat": 5.6167, "lon": 117.0333},
+      "Tongod": {"lat": 5.5500, "lon": 117.0000},
+      "Nabawan": {"lat": 4.5875, "lon": 116.5431},
+      "Pitas": {"lat": 6.7500, "lon": 117.0000}
+    }
+  },
+  "Sarawak": {
+    flag:"data:image/png;base64,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",
+    districts: {
+    "Kuching": {"lat": 1.5533, "lon": 110.3592},
+    "Bau": {"lat": 1.3833, "lon": 110.1333},
+    "Lundu": {"lat": 1.3833, "lon": 109.9833},
+    "Samarahan": {"lat": 1.4500, "lon": 110.5000},
+    "Asajaya": {"lat": 1.6047, "lon": 110.7044},
+    "Serian": {"lat": 1.1993, "lon": 110.5501},
+    "Sri Aman": {"lat": 1.2351, "lon": 111.4650},
+    "Lubok Antu": {"lat": 1.1993, "lon": 111.2000},
+    "Betong": {"lat": 1.4032, "lon": 111.5553},
+    "Saratok": {"lat": 1.5400, "lon": 111.4167},
+    "Sarikei": {"lat": 2.1275, "lon":111.5167}
+    }
+  }
+}
