@@ -49,6 +49,7 @@ export default {
   width: 200px;
   height: 200px;
   text-align: center;
+  
 }
 .state_flag {
   width: 150px;

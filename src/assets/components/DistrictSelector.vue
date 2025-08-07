@@ -34,7 +34,7 @@ export default {
 
 <style scoped>
 .district-selector {
-    margin-left: 650px;
+    margin-left: 45%;
     margin-top: 20px;
     width: 200px;
     height: 40px;
@@ -51,9 +51,9 @@ export default {
     font-size: 16px;
 }
 .district-selector select {
-    width: 220px;   /* increase as needed */
-    height: 30px;   /* increase as needed */
-    font-size: 16px; /* make text bigger */
+    width: 220px;  
+    height: 30px;   
+    font-size: 16px; 
     padding: 6px 10px;
 }
 </style>

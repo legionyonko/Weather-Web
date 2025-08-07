@@ -86,12 +86,12 @@ export default {
 }
 .selectedState {
   font-size: 1.5em;
-  margin: 20px 45%;
+  margin: 20px 46%;
   
 }
 .selectedDistrict {
   font-size: 1.5em;
-  margin: 20px 45%;
+  margin: 20px 46%;
 }
 .back-to-states {
   position: absolute;
